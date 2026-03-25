@@ -206,6 +206,7 @@ export const DATA = {
         }
       ],
       image: "/LMSBackend.webp",
+      video:""
     },
 
     {
@@ -234,6 +235,7 @@ export const DATA = {
         }
       ],
       image: "/LMSFrontend.webp",
+      video:""
     },
 
     {
@@ -262,6 +264,7 @@ export const DATA = {
         }
       ],
       image: "/EcommerceFrontend.webp",
+      video:""
     },
   ],
   hackathons: [
