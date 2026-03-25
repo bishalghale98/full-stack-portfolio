@@ -16,6 +16,7 @@ import { Bootstrap } from "@/components/ui/svgs/bootstrap";
 import { Api } from "@/components/ui/svgs/api";
 import { Jwt } from "@/components/ui/svgs/jwt";
 import { Github } from "@/components/ui/svgs/github";
+import { Redux } from "@/components/ui/svgs/redux";
 
 export const DATA = {
   name: "Bishal Ghale",
@@ -33,6 +34,8 @@ export const DATA = {
     { name: "Next.js", icon: NextjsIconDark },
     { name: "TypeScript", icon: Typescript },
     { name: "JavaScript", icon: Javascript },
+
+    { name: 'Redux', icon: Redux },
 
     { name: "Node.js", icon: Nodejs },
     { name: "Express.js", icon: Express },
@@ -206,7 +209,7 @@ export const DATA = {
         }
       ],
       image: "/LMSBackend.webp",
-      video:""
+      video: ""
     },
 
     {
@@ -235,7 +238,7 @@ export const DATA = {
         }
       ],
       image: "/LMSFrontend.webp",
-      video:""
+      video: ""
     },
 
     {
@@ -264,7 +267,7 @@ export const DATA = {
         }
       ],
       image: "/EcommerceFrontend.webp",
-      video:""
+      video: ""
     },
   ],
   hackathons: [
